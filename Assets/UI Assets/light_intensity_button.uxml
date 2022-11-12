@@ -1,0 +1,5 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="Frame" style="bottom: auto; margin-top: 58px;">
+        <ui:Button text="Change Light Intensity" display-tooltip-when-elided="true" name="Button" style="font-size: 12px; height: 55px; background-color: rgb(176, 173, 87); color: rgb(0, 0, 0); width: 158px;" />
+    </ui:VisualElement>
+</ui:UXML>
